@@ -1,0 +1,5 @@
+tuple_data = (0, 1, 2, "jadi", 3.14)
+print(tuple_data)
+print(type(tuple_data))
+print(tuple_data[3])
+print(len(tuple_data))
